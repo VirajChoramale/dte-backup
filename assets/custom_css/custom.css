@@ -1,0 +1,9 @@
+.round-btn{
+	border:1px solid;
+	border-radius:20px;
+	width:70px;
+	background-color:#0984e3;
+	height:40px;
+	color:white;
+	font-size:25px;
+}
